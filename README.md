@@ -1,0 +1,2 @@
+# projectzero
+start from scratch
